@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @LuckyC76
-- 👀 I’m interested in Python, Java
+- 👀 I’m interested in Python, Java, HTML, CSS, javascript
 - 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
+- 💞️ I’m looking to collaborate on some projects for my portfolio. 
+- 📫 How to reach me: everytime over Github
+- 😄 Pronouns: male
 - ⚡ Fun fact: ...
 
 <!---
